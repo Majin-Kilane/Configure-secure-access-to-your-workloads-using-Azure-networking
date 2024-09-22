@@ -14,7 +14,7 @@ The aim for this lab was to optimize network routing, manage DNS zones, configur
 
 ### Tools Used
 
-- Azure Virtual Network.
+- Azure Virtual Network (VNet) is a fundamental building block for your private network in Microsoft Azure. It allows you to create isolated, secure networks in the cloud that can communicate with Azure resources, on-premises networks, and the internet.
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
